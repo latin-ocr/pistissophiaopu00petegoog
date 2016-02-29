@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pistissophiaopu00petegoog_0678.png"; bbox 0 0 3240 5328; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 404 1070 912 1190">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 404 1070 912 1190">
+     <span class='ocr_line' id='line_1_1' title="bbox 404 1070 912 1190; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 404 1070 912 1190; x_wconf 78' lang='lat' dir='ltr'><strong>VERZEICHNISS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 132 1511 1183 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 132 1511 1183 1694">
+     <span class='ocr_line' id='line_1_2' title="bbox 132 1511 1183 1694; baseline 0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 132 1511 812 1693; x_wconf 79' lang='lat' dir='ltr'>THEOLOGISCHER</span> <span class='ocrx_word' id='word_1_3' title='bbox 878 1517 1183 1694; x_wconf 82' lang='lat' dir='ltr'>WERKE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 475 2010 1019 2106">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 475 2010 1019 2106">
+     <span class='ocr_line' id='line_1_3' title="bbox 475 2010 1019 2106; baseline -0.004 -20"><span class='ocrx_word' id='word_1_4' title='bbox 475 2011 548 2088; x_wconf 59' lang='lat' dir='ltr'><strong>nus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 570 2011 650 2086; x_wconf 67' lang='lat' dir='ltr'><strong>Dm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 673 2010 846 2088; x_wconf 72' lang='lat' dir='ltr'>VERLAGE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1016 2099 1019 2106; x_wconf 46' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 247 2696 1070 2822">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 247 2696 1070 2822">
+     <span class='ocr_line' id='line_1_4' title="bbox 247 2696 1070 2822; baseline -0.013 -11"><span class='ocrx_word' id='word_1_8' title='bbox 247 2696 374 2811; x_wconf 57' lang='lat' dir='ltr'><strong>fem.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 414 2702 684 2822; x_wconf 50' lang='lat' dir='ltr'><strong>&amp;titutum</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 719 2707 1070 2822; x_wconf 58' lang='lat' dir='ltr'><strong>ffintijhanhlunn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1624 5328">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1624 5328">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1624 5328; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1624 5328; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
